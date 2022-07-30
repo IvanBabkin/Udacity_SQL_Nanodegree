@@ -1,7 +1,7 @@
 # Udacity SQL Nanodegree
 This repository contains 2 projects that were completed as part of Udacity's SQL Nanodegree.
 
-Find course [here.](https://www.udacity.com/course/learn-sql--nd072)
+Find Nanodegree [here.](https://www.udacity.com/course/learn-sql--nd072)
 
 [Proof of graduation](https://confirm.udacity.com/AVXVSHEY)
 
